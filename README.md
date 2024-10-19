@@ -55,6 +55,11 @@ while True:
 ## OUPUT:
 
 ### CLIENT
+![Screenshot 2024-10-18 084241](https://github.com/user-attachments/assets/48ee445d-bfa5-4f50-a9ca-ddaa14d0735c)
 
-## RESULT
-Thus, python program to perform stop and wait protocol was successfully executed
+### SERVER
+![Screenshot 2024-10-18 084307](https://github.com/user-attachments/assets/6e2ebb23-4eea-4080-b9b9-a44b09b3a77a)
+
+
+## RESULT:
+Thus, python program to perform stop and wait protocol was successfully executed.
