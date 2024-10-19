@@ -52,7 +52,7 @@ while True:
    s.send("acknowledgement recived from the server".encode())
 ```
 
-## OUPUT:
+## OUTPUT:
 
 ### CLIENT
 ![Screenshot 2024-10-18 084241](https://github.com/user-attachments/assets/48ee445d-bfa5-4f50-a9ca-ddaa14d0735c)
